@@ -11,7 +11,7 @@ title                    : "Jinyuan Zhang"
 title_separator          : "-"
 name                     : &name "Jinyuan Zhang"
 description              : &description "Ph.D. Candidate, Finance Department, INSEAD"
-url                      : https://0527zhangjinyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://127.0.0.1:4000/ #https://0527zhangjinyuan.github.io # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "0527zhangjinyuan/0527zhangjinyuan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,12 +83,12 @@ author:
   name             : "Jinyuan Zhang"
   avatar           : "jinyuan.jpg"
   bio              : "Ph.D. Candidate, Finance, INSEAD"
-  location         : 
+  location         :
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=fGES-goAAAAJ&hl=en"
   email            : "jinyuan.zhang@insead.edu"
-  researchgate     : 
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
