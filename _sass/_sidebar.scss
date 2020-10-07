@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(3 of 12);
+    @include span(2.6 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -34,13 +34,13 @@
     font-family: $sans-serif-narrow;
   }
 
-  h2, h3, h4 {
-    font-size: 0.9em;
+  h3, h4 {
+    font-size: $type-size-5;
   }
 
   p, li {
     font-family: $sans-serif;
-    font-size: 0.9em;
+    font-size: $type-size-6;
     line-height: 1.5;
   }
 
@@ -72,19 +72,19 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100%;
+  width: 250px;
   // set width only, for non-square avatars
-  height: auto;
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-  //   width: auto;
-  //    height: auto;
+    width: auto;
+    height: auto;
   }
 
   img {
     max-width: 250px;
-    border-radius: 10%;
+    border-radius: 20%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -118,7 +118,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: 1.3em;
+  font-size: $type-size-5;
 }
 
 .author__bio {
@@ -227,7 +227,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: 0.95em;
+    font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
