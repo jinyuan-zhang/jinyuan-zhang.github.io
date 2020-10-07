@@ -11,7 +11,7 @@ title                    : "Jinyuan Zhang"
 title_separator          : "-"
 name                     : &name "Jinyuan Zhang"
 description              : &description "Ph.D. Candidate, Finance Department, INSEAD"
-url                      : http://127.0.0.1:4000  #https://jinyuan-zhang.github.io #http://127.0.0.1:4000  #
+url                      : https://jinyuan-zhang.github.io #http://127.0.0.1:4000  #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinyuan-zhang/jinyuan-zhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
