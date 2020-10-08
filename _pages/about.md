@@ -11,7 +11,7 @@ I am a Ph.D. Candidate in the Finance Department at [INSEAD](https://www.insead.
 I am advised by Prof. [Joel Peress](https://faculty.insead.edu/joel-peress/) (chair), [Itamar Drechsler](https://sites.google.com/site/idrechsl/) and [Guillaume Vuillemey](https://sites.google.com/site/idrechsl/). 
 
 
-I am on the job market and will be available for interviews at the 2021 AFA meeting.
+I am on the job market and available for virtual interviews at the 2021 AFA annual meeting.
 
 <!-- 
 I received my Bachelor’s Degree in Risk Management Science at the Chinese University of Hong Kong, and Master's Degree in Statistics at the University of British Columbia. 
