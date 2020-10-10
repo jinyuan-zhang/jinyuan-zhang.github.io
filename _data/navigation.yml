@@ -1,7 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/CV_Jinyuan_Zhang.pdf
+    # url: /files/CV_Jinyuan_Zhang.pdf
+    <a href="{{ CV_Jinyuan_Zhang.pdf }}" target="_blank">{{ CV }}</a>
 
   - title: "Research"
     url: /research/
