@@ -4,5 +4,4 @@ main:
     url: /research/
 
   - title: "CV"
-    # url: /files/CV_Jinyuan_Zhang.pdf
-    <a href="{{ CV_Jinyuan_Zhang.pdf }}" target="_blank">{{ CV }}</a>
+    url: /files/CV_Jinyuan_Zhang.pdf
