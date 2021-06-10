@@ -1,5 +1,5 @@
 current directory: /Users/jinyuanzhang/Documents/GitHub/jinyuan-zhang.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210610-31922-bteqvo.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210610-32145-e31wd2.rb extconf.rb
 creating Makefile
 
 current directory: /Users/jinyuanzhang/Documents/GitHub/jinyuan-zhang.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
