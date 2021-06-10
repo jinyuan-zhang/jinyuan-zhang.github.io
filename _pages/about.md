@@ -7,15 +7,10 @@ author_profile: true
 
 # Welcome!
 
-<<<<<<< HEAD
  I will join <a href="https://www.anderson.ucla.edu/faculty-and-research/finance" target="_blank">UCLA Anderson School of Management</a> as an assistant professor in finance starting in July 2021.  
  
  
- My research interests lie in the area of financial intermediation, including banking, pension funds, and mutual funds. I am particularly interested in understanding the impact of macro-level policies on micro-level behaviors and the subsequent economic consequences.
-=======
- I will join<a href="https://www.anderson.ucla.edu/faculty-and-research/finance" target="_blank">UCLA Anderson School of Management</a> as an assistant professor in finance starting in July 2021.  My research interests lie in the area of financial intermediation, including banking, pension funds, and mutual funds. I am particularly interested in understanding the impact of macro-level policies on micro-level behaviors and the subsequent economic consequences.</p>
->>>>>>> d67cd8c9ff484875021ed489aac3a830efb7685d
-
+My research interests lie in the area of financial intermediation, including banking, pension funds, and mutual funds. I am particularly interested in understanding the impact of macro-level policies on micro-level behaviors and the subsequent economic consequences.
 
 <!-- 
 <p style="text-align:justify">I am advised by Prof. <a href="https://faculty.insead.edu/joel-peress/home" target="_blank">Joel Peress</a>, Prof. <a href="https://sites.google.com/site/idrechsl/" target="_blank">Itamar Drechsler</a> ,  Prof. <a href="https://sites.google.com/site/johnkuongkcf/home" target="_blank">John Kuong</a>, and Prof. <a href="https://sites.google.com/site/guillaumevuillemey/home" target="_blank">Guillaume Vuillemey</a>.</p>
