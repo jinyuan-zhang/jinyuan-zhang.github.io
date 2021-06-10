@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinyuan Zhang"
 title_separator          : "-"
 name                     : &name "Jinyuan Zhang"
-description              : &description "Ph.D. Candidate, Finance Department, INSEAD"
+description              : &description "Assistant Professor of Finance, UCLA Anderson School of Management"
 url                      : https://jinyuan-zhang.github.io #http://127.0.0.1:4000  #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinyuan-zhang/jinyuan-zhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinyuan Zhang"
   avatar           : "jinyuan.jpg"
-  bio              : "Ph.D. Candidate, Finance, INSEAD"
+  bio              : "Assistant Professor of Finance, UCLA Anderson School of Management"
   location         :
   employer         :
   pubmed           :
