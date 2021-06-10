@@ -18,10 +18,7 @@ author_profile: true
 -->
 
 
-I received my Ph.D. degree in Finance from <a href="https://www.insead.edu/faculty-research/academic-areas/finance" target="_blank">INSEAD</a>. I also hold a Master's Degree in Statistics at the University of British Columbia and a Bachelor’s Degree in Risk Management Science at the Chinese University of Hong Kong. 
-
-Email: jinyuan.zhang@anderson.ucla.edu
- 
+I received my Ph.D. degree in Finance from <a href="https://www.insead.edu/faculty-research/academic-areas/finance" target="_blank">INSEAD</a>. I also hold a Master's Degree in Statistics at the University of British Columbia and a Bachelor’s Degree in Risk Management Science at the Chinese University of Hong Kong.  
  
 <!-- 
 ---
