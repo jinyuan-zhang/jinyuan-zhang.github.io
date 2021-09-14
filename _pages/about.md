@@ -7,7 +7,7 @@ author_profile: true
 
 # Welcome!
 
- I will join <a href="https://www.anderson.ucla.edu/faculty-and-research/finance" target="_blank">UCLA Anderson School of Management</a> as an assistant professor in finance starting in July 2021.  
+ I am an Assistant Professor of Finance at <a href="https://www.anderson.ucla.edu/faculty-and-research/finance" target="_blank">UCLA Anderson School of Management</a>.  
  
  
  My research interests lie in the area of financial intermediation, including banking, pension funds, and mutual funds. I am particularly interested in understanding the impact of macro-level policies on micro-level behaviors and the subsequent economic consequences.
