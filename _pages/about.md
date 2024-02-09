@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-# Welcome!
+## Welcome!
 
  I am an Assistant Professor of Finance at <a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/jinyuan-zhang" target="_blank">UCLA Anderson School of Management</a>. I received my Ph.D. degree in Finance from INSEAD. 
  
@@ -25,7 +25,7 @@ author_profile: true
 
  
 ---
-# Recent News
+## News:
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702125" target="_blank">"Branching Out Inequality: The Impact of Credit Equality Policies"</a> is posted
 
 
