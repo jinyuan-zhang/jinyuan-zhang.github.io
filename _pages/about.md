@@ -24,8 +24,8 @@ author_profile: true
 <!-- I received my Ph.D. degree in Finance from INSEAD. I also hold a Master's Degree in Statistics at the University of British Columbia and a Bachelor's Degree in Risk Management Science at the Chinese University of Hong Kong. -->
 
  
----
+<!-- ---
 ## News:
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702125" target="_blank">"Branching Out Inequality: The Impact of Credit Equality Policies"</a> is posted
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702125" target="_blank">"Branching Out Inequality: The Impact of Credit Equality Policies"</a> is posted -->
 
 
