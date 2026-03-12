@@ -1,5 +1,8 @@
 # main links
 main:
+  - title: "Home"
+    url: /
+
   - title: "CV"
     url: /files/CV_Jinyuan_Zhang.pdf
 
